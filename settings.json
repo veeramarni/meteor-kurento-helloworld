@@ -1,6 +1,0 @@
-{
-  "kurento": {
-    "kurento_uri" : "wss://localserver.com:8433",
-    "debug": true
-  }
-}
