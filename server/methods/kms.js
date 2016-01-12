@@ -1,0 +1,1 @@
+KMS = Meteor.settings.kurento;

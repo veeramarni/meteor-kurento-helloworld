@@ -1,0 +1,6 @@
+{
+  "kurento": {
+    "kurento_uri" : "wss://smartidog.com:8433",
+    "debug": true
+  }
+}
